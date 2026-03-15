@@ -1,0 +1,21 @@
+{
+  "name": "discord-order-bot",
+  "version": "1.0.0",
+  "description": "Discord bot with auto order and review system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "order",
+    "review"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.6.1"
+  }
+}

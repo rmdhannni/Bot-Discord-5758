@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "GAMEPASS",
+      "name": "GAMEPASS 5 DAYS",
+      "stock": 192000,
+      "price": 0,
+      "sold": 10000
+    },
+    {
+      "id": "GIFT IN GAME",
+      "name": "GIFT IN GAME",
+      "stock": 10000,
+      "price": 0,
+      "sold": 10000
+    }
+  ],
+  "redfinger": [
+    {
+      "id": "vip7d",
+      "name": "REDFINGER - 7 DAYS",
+      "stock": 200,
+      "price": 19500,
+      "sold": 74
+    },
+    {
+      "id": "vip30d",
+      "name": "REDFINGER - 30 DAYS",
+      "stock": 337,
+      "price": 58500,
+      "sold": 8
+    }
+  ],
+  "orders": [],
+  "cooldowns": {}
+}
